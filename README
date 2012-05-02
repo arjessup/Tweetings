@@ -1,0 +1,1 @@
+This is the Tweetings app that I created at CocoaConf Chicago in March of 2012.  It is a basic Twitter client.  Originally, it did two things: tap button for "tweets" and you can see all the tweets of the user hard-coded into the project, tap button "tweet" and it can send a tweet from that same hard-coded user (pre-populated form, but editable).  
